@@ -15,3 +15,30 @@ Include:
 
 Customer Information:
 [Paste information here]
+
+
+## Customer Health Prompt
+
+Act as an experienced Customer Success leader.
+
+Review the information below and assess customer health.
+
+Identify:
+
+- Positive signals
+- Risk signals
+- Adoption concerns
+- Stakeholder risks
+- Expansion opportunities
+
+Provide:
+
+1. Health Score (1-10)
+2. Top 3 Risks
+3. Top 3 Opportunities
+4. Recommended Next Actions
+
+Customer Information:
+
+[Paste information here]
+
